@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "@omelek/mos-common": "0.4.97",
+        "@omelek/mos-common": "0.4.98",
         "@omelek/mos-eoh": "1.2.68"
     }
 }
